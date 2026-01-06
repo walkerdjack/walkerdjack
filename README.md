@@ -1,1 +1,1 @@
-Hi, I'm Jack Walker. I'm a political science pre-doctoral fellow at Yale. I work in private repositories, but visit [my website](https://walkerdjack.github.io) for more information and to get in touch.
+Hi, I'm Jack Walker. I'm a political science pre-doctoral fellow at Yale. I work in private repositories for ongoing projects, but I store replication packages for published (and forthcoming) works in public repositories. Visit [my website](https://walkerdjack.github.io) for more information and to get in touch.
